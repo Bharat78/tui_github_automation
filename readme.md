@@ -1,5 +1,3 @@
-
-
 # Grade Book
 
 One of the most common uses of Excel in the field of academia is keeping track of students' grades. In this activity, you and your partner will create a spreadsheet that averages out the scores of a fictional class's students, then determines whether each student has passed or failed the course.
