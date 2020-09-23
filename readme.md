@@ -1,4 +1,4 @@
-Read me
+
 # Grade Book
 
 One of the most common uses of Excel in the field of academia is keeping track of students' grades. In this activity, you and your partner will create a spreadsheet that averages out the scores of a fictional class's students, then determines whether each student has passed or failed the course.
@@ -21,13 +21,12 @@ One of the most common uses of Excel in the field of academia is keeping track o
 
 * Create a nested `IF()` formula which returns a letter grade based on a student's final grade.
 
-  * Greater than or equal to 90 = `A`
-    * Greater than or equal to 80 and less than 90 = `B`
-      * Greater than or equal to 70 and less than 80 = `C`
-        * Greater than or equal to 60 and less than 70 = `D`
-          * Anything less than 60 = `F`
-          
-          ## Hints
-          
-          * In case you need some help with nested `IF()` statements in Excel, [Nest Formulas](https://support.office.com/en-us/article/IF-function-%E2%80%93-nested-formulas-and-avoiding-pitfalls-0b22ff44-f149-44ba-aeb5-4ef99da241c8) is a support article that goes over how to do so.
-          
+* Greater than or equal to 90 = `A`
+* Greater than or equal to 80 and less than 90 = `B`
+* Greater than or equal to 70 and less than 80 = `C`
+* Greater than or equal to 60 and less than 70 = `D`
+* Anything less than 60 = `F`
+
+## Hints
+
+* In case you need some help with nested `IF()` statements in Excel, [Nest Formulas](https://support.office.com/en-us/article/IF-function-%E2%80%93-nested-formulas-and-avoiding-pitfalls-0b22ff44-f149-44ba-aeb5-4ef99da241c8) is a support article that goes over how to do so.
