@@ -1,5 +1,5 @@
 
-## Predicting Gentrification
+##  Gentrification
 
 This experiment will discuss gentrification, the social phenomenon by which low-income neighbourhoods experience an influx of affluent residents.
 
